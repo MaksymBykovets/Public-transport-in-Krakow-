@@ -1,0 +1,44 @@
+[
+    {
+        "line_number": "1",
+        "type": "Tram",
+        "route": "Salwator - Wzgorza Krzeslawickie",
+        "operating_hours": "5:00 - 23:00",
+        "frequency": "Every 10 minutes"
+    },
+    {
+        "line_number": "8",
+        "type": "Tram",
+        "route": "Borek Falecki - Bronowice Male",
+        "operating_hours": "5:30 - 22:30",
+        "frequency": "Every 12 minutes"
+    },
+    {
+        "line_number": "502",
+        "type": "Bus",
+        "route": "Cracovia Stadium - Osiedle Podwawelskie",
+        "operating_hours": "5:15 - 23:45",
+        "frequency": "Every 15 minutes"
+    },
+    {
+        "line_number": "9",
+        "type": "Tram",
+        "route": "Mistrzejowice - Nowy Biezanow",
+        "operating_hours": "6:00 - 22:00",
+        "frequency": "Every 20 minutes"
+    },
+    {
+        "line_number": "152",
+        "type": "Bus",
+        "route": "Kombinat - Olsza II",
+        "operating_hours": "4:30 - 23:30",
+        "frequency": "Every 10 minutes"
+    },
+    {
+        "line_number": "24",
+        "type": "Tram",
+        "route": "Kurdwanow - Bronowice",
+        "operating_hours": "5:00 - 23:00",
+        "frequency": "Every 8 minutes"
+    }
+]
