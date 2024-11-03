@@ -1,0 +1,26 @@
+<transportation>
+    <route>
+        <type vehicle="electric">tram</type>
+        <startingPoint zone="A">Akademik SHED</startingPoint>
+        <destination zone="B">UEK</destination>
+        <timeInMinutes peak="yes">20</timeInMinutes>
+    </route>
+    <route>
+        <type vehicle="diesel">train</type>
+        <startingPoint zone="C">Galeria Krakowska</startingPoint>
+        <destination zone="D">Lotnisko</destination>
+        <timeInMinutes peak="no">25</timeInMinutes>
+    </route>
+    <route>
+        <type vehicle="diesel">bus</type>
+        <startingPoint zone="E">Bronowice</startingPoint>
+        <destination zone="F">City Centre</destination>
+        <timeInMinutes peak="yes">30</timeInMinutes>
+    </route>
+    <route>
+        <type vehicle="electric">tram</type>
+        <startingPoint zone="G">Tauron Arena</startingPoint>
+        <destination zone="H">M1</destination>
+        <timeInMinutes peak="yes">2</timeInMinutes>
+    </route>
+</transportation>
