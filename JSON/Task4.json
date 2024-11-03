@@ -1,0 +1,10 @@
+{
+    "city": "Krakow",
+    "typesOfTransport": ["tram", "train", "bus"],
+    "isActive": true,
+    "accessibeleToDisabiltiesPeople": true,
+    "company": "KMK",
+    "description": null,
+    "operationalHours": "5am - 11pm",
+    "transportWorkingHours": "Around the clock"
+}
