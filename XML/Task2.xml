@@ -1,0 +1,26 @@
+<transportation>
+    <route>
+        <type>tram</type>
+        <startingPoint>Akademik SHED</startingPoint>
+        <destination>UEK</destination>
+        <timeInMinutes>20</timeInMinutes>
+    </route>
+    <route>
+        <type>train</type>
+        <startingPoint>Galeria Krakowska</startingPoint>
+        <destination>Lotnisko</destination>
+        <timeInMinutes>25</timeInMinutes>
+    </route>
+    <route>
+        <type>bus</type>
+        <startingPoint>Bronowice</startingPoint>
+        <destination>City Centre</destination>
+        <timeInMinutes>30</timeInMinutes>
+    </route>
+    <route>
+        <type>tram</type>
+        <startingPoint>Tauron Arena</startingPoint>
+        <destination>M1</destination>
+        <timeInMinutes>2</timeInMinutes>
+    </route>
+</transportation>
